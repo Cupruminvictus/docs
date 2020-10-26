@@ -2,7 +2,7 @@
 title: Linking a pull request to an issue
 intro: 'You can link a pull request to an issue to{% if currentVersion == "free-pro-team@latest" or currentVersion ver_gt "enterprise-server@2.18" %} show that a fix is in progress and to{% endif %} automatically close the issue when the pull request is merged.'
 redirect_from:
-  - /articles/closing-issues-via-commit-message/
+  - /
   - /articles/closing-issues-via-commit-messages/
   - /articles/closing-issues-using-keywords
   - /github/managing-your-work-on-github/closing-issues-using-keywords
