@@ -15,4 +15,6 @@ versions:
   free-pro-team: '*'
   enterprise-server: '*'
 ---
-
+hi 
+need help i cant root honor8x 
+hu can help me ? 
